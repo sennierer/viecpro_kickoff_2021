@@ -43,7 +43,7 @@ https://sennierer.github.io/viecpro_kickoff_2021/ <!-- .element: class="fragment
 * extendable for more datasets to come <!-- .element: class="fragment" -->
 * frontend to curate the data <!-- .element: class="fragment" -->
 * API to automatically ingest the data <!-- .element: class="fragment" -->
-* pipeline for data ingestion <!-- .element: class="fragment" style="font-size: 1.5em; font-color: red" -->
+* pipeline for data ingestion <!-- .element: class="fragment" style="font-size: 1.5em; color: #a1261d" -->
 
 +++
 
